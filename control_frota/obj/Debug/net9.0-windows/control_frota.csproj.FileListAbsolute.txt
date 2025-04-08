@@ -1,0 +1,14 @@
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.AssemblyInfoInputs.cache
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.AssemblyInfo.cs
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.csproj.CoreCompileInputs.cache
+C:\Users\EngPc4\control_frota\bin\Debug\net9.0-windows\control_frota.exe
+C:\Users\EngPc4\control_frota\bin\Debug\net9.0-windows\control_frota.deps.json
+C:\Users\EngPc4\control_frota\bin\Debug\net9.0-windows\control_frota.runtimeconfig.json
+C:\Users\EngPc4\control_frota\bin\Debug\net9.0-windows\control_frota.dll
+C:\Users\EngPc4\control_frota\bin\Debug\net9.0-windows\control_frota.pdb
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.dll
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\refint\control_frota.dll
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.pdb
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\control_frota.genruntimeconfig.cache
+C:\Users\EngPc4\control_frota\obj\Debug\net9.0-windows\ref\control_frota.dll
