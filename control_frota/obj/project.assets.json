@@ -8,19 +8,19 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EngPc4\\.nuget\\packages\\": {}
+    "C:\\Users\\Auditório\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EngPc4\\control_frota\\control_frota.csproj",
+      "projectUniqueName": "C:\\dev\\control_frota\\control_frota\\control_frota.csproj",
       "projectName": "control_frota",
-      "projectPath": "C:\\Users\\EngPc4\\control_frota\\control_frota.csproj",
-      "packagesPath": "C:\\Users\\EngPc4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EngPc4\\control_frota\\obj\\",
+      "projectPath": "C:\\dev\\control_frota\\control_frota\\control_frota.csproj",
+      "packagesPath": "C:\\Users\\Auditório\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\control_frota\\control_frota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EngPc4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Auditório\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0-windows"
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

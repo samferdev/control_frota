@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("control_frota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a06f99cdbec38ddc690ae3f263b10244688539")]
 [assembly: System.Reflection.AssemblyProductAttribute("control_frota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("control_frota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
